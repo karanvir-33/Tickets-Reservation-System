@@ -17,10 +17,3 @@ This application manages a simple event ticket reservation system. Users can bro
 ### Prerequisites:
 - Visual Studio 2019 or newer
 - SQL Server (for database integration)
-
-### Steps:
-1. Clone this repository:
-   git clone https://github.com/karanvir-33/Tickets-Reservation-System.git
-2. Open the solution file Tickets Reservation System.sln in Visual Studio.
-3. Build the project and restore NuGet packages (if prompted).
-4. Run the application through Visual Studio.
